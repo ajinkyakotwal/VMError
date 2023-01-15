@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^0.6.0",
+    "ganache": "^7.7.3"
+  }
+}
